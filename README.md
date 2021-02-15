@@ -35,6 +35,9 @@ System.out.print("Hello World!")
 
 ### 4. 이미지 가져오기
 
+![image](https://user-images.githubusercontent.com/55589616/107916536-c8907a80-6fa9-11eb-985b-35f8baf738f7.png)
+
+-------
 
 참고 링크
 https://gist.github.com/ihoneymon/652be052a0727ad59601
