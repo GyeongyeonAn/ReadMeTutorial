@@ -1,6 +1,10 @@
-# README 사용법   
+# README 사용법      
+> README 사용법에 대해서 학습합니다.      
+
+------
 
 ### 1. 제목 표시
+
 # Title 1
 ## Title 2
 ### Title 3
@@ -11,16 +15,29 @@
 -------
  
 ### 2. 소스코드 표시
+
 ``` c
 printf("Hello World!")
 ```
 ``` java
 System.out.print("Hello World!")
+```   
+```
+안녕하세요.
 ```
 
 -------
 
-### 3. 글머리 기호
+### 3. 블록인용문자
+
+> This is a first blockqute.
+>> This is a second blockqute.
+>>> This is a third blockqute.
+
+-------
+
+### 4. 글머리 기호
+
 - 안녕 1
   - 안녕 2
     - 안녕 3
@@ -33,7 +50,7 @@ System.out.print("Hello World!")
 
 -------
 
-### 4. 강조
+### 5. 강조
 
 *기울기*   
 _기울기2_   
@@ -46,11 +63,8 @@ __진하게2__
 
 -------
 
-### 5. 이미지 가져오기
+### 6. 이미지 가져오기
 
 ![image](https://user-images.githubusercontent.com/55589616/107916536-c8907a80-6fa9-11eb-985b-35f8baf738f7.png)
 
 -------
-
-참고 링크
-https://gist.github.com/ihoneymon/652be052a0727ad59601
