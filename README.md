@@ -17,10 +17,10 @@
 ### 2. 소스코드 표시
 
 ``` c
-printf("Hello World!")
+printf("Hello World!");
 ```
 ``` java
-System.out.print("Hello World!")
+System.out.print("Hello World!");
 ```   
 ```
 안녕하세요.
